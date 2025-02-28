@@ -1,5 +1,7 @@
 # payroll-software
 
+School Project
+
 Payroll System
 A payroll system is a software that can calculate the wage of an employee based on the hours worked. The user is expected to enter the pay rate and the number of hours worked and then their information, and the total wage will be printed. The software also has additional features that are as follows:
 
